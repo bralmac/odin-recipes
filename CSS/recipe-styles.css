@@ -34,12 +34,6 @@ img:hover {
     position: relative;
     max-width: fit-content;
 }
-/* 
-.box2 {
-    background-image: url(/images/pizza.jpg);
-    background-size: contain;
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.85), transparent);
-} */
 
 .centered {
     color: white;
